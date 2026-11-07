@@ -25,6 +25,9 @@
 - [Furnace Repair Sierra Madre for Home Heating Problems](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/furnace-repair-sierra-madre/): Furnace Repair Sierra Madre from Petty Family HVAC helps you assess heating trouble and plan next steps. Call today to discuss service in Sierra Madre.
 - [Emergency HVAC Repair Sierra Madre When Comfort Can't Wait](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/emergency-hvac-repair-sierra-madre/): Emergency HVAC Repair Sierra Madre, with Petty Family HVAC, helps you decide what to do when heating or cooling fails. Call day or night for help.
 
+## Newsroom
+- [Petty Family HVAC Publishes New Guide to HVAC Contractor In Sierra Madre CA](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/news/2026-11-07-petty-family-hvac-publishes-new-guide-to-hvac/): Petty Family HVAC has published a local HVAC guide, along with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-07)
+
 ## Pages
 - [HVAC Contractor in Sierra Madre, California](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/): Get dependable heating and cooling support for your home or business from a local Sierra Madre team. Call +1626-213-3200.
 - [About Petty Family HVAC](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/about/): About Petty Family HVAC, Sierra Madre.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/petty-family-hvac-sierra-madre/news/rss.xml)
 - [Main resource site](https://petty-family-hvac-sierra-madre.localbusinesses1.chatgpt.site)
